@@ -14,6 +14,7 @@ Support for **unsupervised learning** will be added in future updates.
 - 🌐 Next.js frontend with TanStack for state & data management
 - 🔓 Open-source & extensible architecture
 - 🧩 Easy to add new models and endpoints
+- 📦 Dockerized for easy deployment
 
 ---
 
@@ -45,3 +46,4 @@ Support for **unsupervised learning** will be added in future updates.
 
 Contributions are welcome!  
 Feel free to open issues, suggest improvements, or submit pull requests.
+endpoints.md && docker_guide.md are provided for reference.
